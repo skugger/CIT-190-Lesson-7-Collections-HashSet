@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIT 190 Lesson 7 Collections HashSet", "CIT 190 Lesson 7 Collections HashSet.csproj", "{EC02C10C-9353-4274-BE47-951CE8CBB23B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC02C10C-9353-4274-BE47-951CE8CBB23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC02C10C-9353-4274-BE47-951CE8CBB23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC02C10C-9353-4274-BE47-951CE8CBB23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC02C10C-9353-4274-BE47-951CE8CBB23B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B879B93E-881F-4C9F-8CE1-C62A190721FD}
+	EndGlobalSection
+EndGlobal
